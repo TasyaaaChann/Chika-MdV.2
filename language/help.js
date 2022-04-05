@@ -342,7 +342,7 @@ Thanks!
 └───────
 
 Contact person Owner :
-wa.me/${ownernomer}
+wa.me/6283830815715
 `
 }
 
