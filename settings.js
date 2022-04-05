@@ -14,7 +14,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'sanzychan01',
 }
 
 // Other
@@ -23,7 +23,7 @@ global.premium = ['6283830815715']
 global.ownername = 'Ｔａｓｙａ'
 global.botname = 'Ｔａｓｙａ-Md'
 global.footer = 'Ｔａｓｙａ⸙'
-global.ig = 'https://instagram.com/riychdwayne'
+global.ig = 'https://instagram.com/Tasyaa'
 global.email = 'Tasyaa2004@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'youtube.com'
