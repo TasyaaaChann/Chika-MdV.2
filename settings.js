@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
+global.owner = ['6283830815715','6283830815715','6283830815715']
+global.premium = ['6283830815715']
+global.ownername = 'Ｔａｓｙａ'
+global.botname = 'Ｔａｓｙａ-Md'
+global.footer = 'Ｔａｓｙａ⸙'
 global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.email = 'Tasyaa2004@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
+global.sc = 'youtube.com'
+global.myweb = 'github.com/TasyaaaChann'
+global.packname = 'STIKER'
+global.author = 'Ｔａｓｙａ'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
